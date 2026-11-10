@@ -1,0 +1,24 @@
+{
+  "name": "event-manager-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de eventos utilizando Node.js e MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "event-manager"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongodb": "^7.8.0"
+  }
+}
